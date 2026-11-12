@@ -1,4 +1,4 @@
-# Quietfrost Studio
+# Quietfrost Games Studio
 
 Indie game studio building worlds worth getting lost in.
 
